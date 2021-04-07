@@ -2,7 +2,7 @@ Qrscan
 
 Aplicacion para escanear codigos qr y codigos de barra
 
-Desarrollado en angular 8+, IONIC 4, node.js
+Desarrollado en angular 8+, Ionic 4+
 
 Para ejecutarlo es necesario reconstruir los modulos de node usando el comanado:
 
